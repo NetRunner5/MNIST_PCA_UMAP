@@ -14,9 +14,8 @@ Next, we will use UMAP as an alternative dimensionality reduction technique and 
 
 To assess the quality and compare the generated images, we will use visual inspection. We will also explore how the hyperparameters of the dimensionality reduction algorithms affect the quality of the generated images.
 
----
-# PCA
+## PCA
 ![image](https://user-images.githubusercontent.com/80845151/219893706-8f2445ac-292f-45f1-9a0d-8b970c3c45b2.png)
 
-# UMAP
+## UMAP
 ![image](https://user-images.githubusercontent.com/80845151/219893635-6d3b890d-84c2-4711-b300-42dd6b34356f.png)
